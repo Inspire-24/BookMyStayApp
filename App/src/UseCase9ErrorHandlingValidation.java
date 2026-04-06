@@ -1,5 +1,3 @@
-public class UseCase9ErrorHandlingValidation {
-}
 import java.util.Scanner;
 
 /**

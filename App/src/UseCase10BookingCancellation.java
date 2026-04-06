@@ -1,4 +1,4 @@
-public class UseCase10BookingCancellation /**
+/**
  * MAIN CLASS UseCase10BookingCancellation
  *
  * Use Case 10: Booking Cancellation & Inventory Rollback
